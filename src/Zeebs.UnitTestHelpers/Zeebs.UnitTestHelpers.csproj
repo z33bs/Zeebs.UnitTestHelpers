@@ -3,7 +3,7 @@
   <PropertyGroup>
 	<!-- General -->
     <AssemblyName>Zeebs.UnitTestHelpers</AssemblyName>
-    <Description>A collection of Helpers that make unit testing easier / more effective. Includes: A deterministic Task Scheduler</Description>
+    <Description>A collection of Helpers that make unit testing easier and more effective. Includes a Deterministic Task Scheduler</Description>
     <Copyright>Copyright 2020 Guy Antoine</Copyright>
     <Authors>Guy Antoine</Authors>
     <NeutralLanguage>en-GB</NeutralLanguage>
@@ -13,7 +13,7 @@
 
     <!-- NuGet settings -->
     <PackageId>Zeebs.UnitTestHelpers</PackageId>
-    <PackageTags>Zeebs.UnitTestHelpers;unit;test;testing;async;task</PackageTags> <!-- separate with ; -->
+    <PackageTags>zeebs;unit-test-helpers;unit-test;testing;asynchronous-testing;async-testing;task</PackageTags> <!-- separate with ; -->
     <PackageReleaseNotes>https://github.com/z33bs/Zeebs.UnitTestHelpers/releases</PackageReleaseNotes>
     <PackageProjectUrl>https://github.com/z33bs/Zeebs.UnitTestHelpers</PackageProjectUrl>
     <!-- Choose either PackageLicenseExpression or PackageLicenseFile (but not both) -->
