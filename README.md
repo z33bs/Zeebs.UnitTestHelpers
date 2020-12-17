@@ -1,4 +1,4 @@
-# ![Logo](art/Zeebs.UnitTestHelpers-64x64.png) Unit Test Helpers
+# ![Logo](art/icon@64x64.png) Unit Test Helpers
 A collection of Helpers that make unit testing easier / more effective. Note, example code uses Xunit mostly.
 
 [![Coverage](https://raw.githubusercontent.com/z33bs/Zeebs.UnitTestHelpers/develop/coverage/badge_linecoverage.svg)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/z33bs/Zeebs.UnitTestHelpers/develop/coverage/index.html) [![NuGet](https://buildstats.info/nuget/Zeebs.UnitTestHelpers?includePreReleases=false)](https://www.nuget.org/packages/Zeebs.UnitTestHelpers/)
